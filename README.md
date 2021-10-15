@@ -9,3 +9,5 @@
 - CrLf( \r\n : 0x0d 0x0a )
 
 の確認用
+
+## SQLite をダウンロードして DB と table を作成して MySQL 拡張で操作テスト
