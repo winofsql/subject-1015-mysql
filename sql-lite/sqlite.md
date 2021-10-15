@@ -10,3 +10,5 @@ sqlite> .exit
 ```
 
 - lightbox.sqlite3
+
+![image](https://user-images.githubusercontent.com/1501327/137440066-080b07f2-f02f-4697-a1aa-a691cd80b341.png)
